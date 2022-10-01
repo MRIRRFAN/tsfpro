@@ -15,4 +15,4 @@ https://www.youtube.com/watch?v=WDLHIxTaZHI
 
 Website Link 🔗 :
 
-https://tsfngo-by-neetpatel.000webhostapp.com/
+https://ambitious-glacier-0dd427010.2.azurestaticapps.net/
