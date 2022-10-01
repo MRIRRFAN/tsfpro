@@ -1,3 +1,4 @@
+##TSF Project by MD IRFAN
 # TSF-Payment-Gateway-Integration-Responsive-Website
  <p>Definition : Website for desktop and mobile where payment gateway is integrated. On clicking the donate button, the user will land on the payment page where user can select the amount to be paid and the payment type, e.g. credit card, Paypal, etc. Once the payment is done and invoice will be generated and email will be sent to the user for the payment received. Host the website at 000webhost.</p>
 
@@ -7,7 +8,7 @@
 
 GitHub Link 🔗 :
 
-https://github.com/PatelNeet/TSF-Payment-Gateway-Integration-Responsive-Website
+https://github.com/MRIRRFAN/tsfpro.git
 
 Youtube Link 🔗 :
 
