@@ -12,7 +12,7 @@ https://github.com/MRIRRFAN/tsfpro.git
 
 ## Youtube Link 🔗 :
 
-https://www.youtube.com/watch?v=WDLHIxTaZHI
+https://youtu.be/8AC9gGgw-jY
 
 ## Website Link 🔗 :
 
